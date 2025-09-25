@@ -39,6 +39,12 @@
 
 ## 🚀 Project Experience
 
+**Barber Shop Website Project** *(Fall 2025)*  
+- Developed a **responsive barber shop website** using **HTML and CSS**.  
+- Designed a clean homepage with a hero background, navigation bar, and service highlights.  
+- Implemented structured sections for services, contact info, and footer.  
+- [GitHub Repository](https://github.com/Jfranc31/barbershop-website)
+
 **Referral Automation Project** *(Fall 2024 – Present)*  
 - Automated referral claim processing lifecycle (email parsing → claim submission → client tracking).  
 - Reduced manual workload by 90%.  
