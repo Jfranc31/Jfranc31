@@ -1,7 +1,6 @@
 # Juan David Franco
 
 📧 [Davidfranco923@gmail.com](mailto:Davidfranco923@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/juanfranco923/) | [GitHub](https://github.com/Jfranc31)  
 
 ---
 
@@ -20,13 +19,15 @@
 
 ## 💼 Professional Experience
 
-**ICF – Python Engineer**  
-*Sep 2023 – Present*  
-- Developed RESTful API integrations with third-party services like Gmail and Google Sheets, enabling real-time data transfer and automating reporting workflows.  
-- Designed reusable Python modules and implemented robust logging and error-handling practices to enhance maintainability and reliability across teams.
-- Developed and integrated unit and integration tests using Pytest and Unittest for robust code validation.
+**Playland – HR Intern**  
+*June 2025 – Present*  
+- Supported front desk operations by assisting staff with inquiries, payroll questions, and form completion.  
+- Maintained and verified employee records in Excel, including working papers for minors.  
+- Handled ID creation, uniform distribution, and inventory tracking.  
+- Designed an interactive Excel-based locker tracker with status indicators, automated entry, and searchable employee data.  
+- Collaborated with the HR team and management to streamline processes and ensure smooth onboarding.
 
-**Optiweb – Software Engineer Intern**  
+**Optiweb – Engineer Intern**  
 *Jun 2022 – Aug 2022*  
 - Developed and deployed a full-stack Python web solution to enhance user interaction and data tracking for a marketing   analytics platform, contributing to a 10% increase in user engagement through personalized content delivery.  
 - Contributed to the creation of a standard Python style guide  
