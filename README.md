@@ -19,8 +19,16 @@
 
 ## 💼 Professional Experience
 
+**AT&T - Connectivity Expert(Sales Representative)**
+*October 2025 - Present*
+- Provide expert consultation on AT&T connectivity solutions, including wireless, internet, and business services.
+- Assess customer needs and recommend tailored technology solutions to enhance connectivity and productivity.
+- Drive sales performance through product knowledge, customer engagement, and relationship building.
+- Educate customers on device features, plan options, and new technologies.
+- Collaborate with team members to meet and exceed sales targets and customer satisfaction goals.
+
 **Playland – HR Intern**  
-*June 2025 – Present*  
+*June 2025 – October 2025*  
 - Supported front desk operations by assisting staff with inquiries, payroll questions, and form completion.  
 - Maintained and verified employee records in Excel, including working papers for minors.  
 - Handled ID creation, uniform distribution, and inventory tracking.  
@@ -39,11 +47,17 @@
 
 ## 🚀 Project Experience
 
+**Giphy Search Engine** *(Fall 2025)*
+- Built a responsive GIF search web application using HTML, SCSS/Sass, and JavaScript(ES6+).
+- Integrate Giphy API with fetch for real-time GIF searching and displaying.
+- Implemented a custom flex-based grid system and pagination with offset support for browsing thousands of results.
+- [Live Demo](https://jfranc31.github.io/Giphy-Search-Engine/) | [GitHub Repository](https://github.com/Jfranc31/Giphy-Search-Engine)
+
 **Barber Shop Website Project** *(Fall 2025)*  
 - Developed a **responsive barber shop website** using **HTML and CSS**.  
 - Designed a clean homepage with a hero background, navigation bar, and service highlights.  
 - Implemented structured sections for services, contact info, and footer.  
-- [GitHub Repository](https://github.com/Jfranc31/barbershop-website)
+- [Live Demo](https://jfranc31.github.io/barbershop-website/) | [GitHub Repository](https://github.com/Jfranc31/barbershop-website)
 
 **Referral Automation Project** *(Fall 2024 – Present)*  
 - Automated referral claim processing lifecycle (email parsing → claim submission → client tracking).  
