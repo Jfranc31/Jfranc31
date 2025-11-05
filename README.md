@@ -6,7 +6,7 @@
 
 ## 🛠 Technical Skills
 - **Programming Languages:** Python, C, JavaScript, CSS, HTML, SQL, Verilog, VHDL, MATLAB  
-- **Tools & Technologies:** Git, Excel, VBA, Linux, Windows, MacOS, Pandas, JSON, NumPy, Arduino, ESP32  
+- **Tools & Technologies:** Git, Excel, VBA, Linux, Windows, MacOS, Pandas, JSON, NumPy, Arduino, ESP32, SCSS/Sass  
 
 ---
 
