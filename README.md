@@ -34,18 +34,20 @@
 - Handled ID creation, uniform distribution, and inventory tracking.  
 - Designed an interactive Excel-based locker tracker with status indicators, automated entry, and searchable employee data.  
 - Collaborated with the HR team and management to streamline processes and ensure smooth onboarding.
-
-**Optiweb – Engineer Intern**  
-*Jun 2022 – Aug 2022*  
-- Developed and deployed a full-stack Python web solution to enhance user interaction and data tracking for a marketing   analytics platform, contributing to a 10% increase in user engagement through personalized content delivery.  
-- Contributed to the creation of a standard Python style guide  
-- Set up all the logging, integration tests, and unit tests for the models.  
-- Enforced ride-specific restrictions.  
-- Implemented monitoring and alerts for different models and KPIs to ensure system reliability.  
-
+  
 ---
 
 ## 🚀 Project Experience
+
+**NodeJS Express** *(Fall 2025)*
+- Full-stack MERN application featuring user authentication and social features.
+- Built with React frontend, Node.js/Express backend, and MySQL database.
+- [Github Repository](https://github.com/Jfranc31/GamersLounge)
+
+**Task Manager App** *(Fall 2025)*
+- React-based task management application with add, delete, and filter functionality.
+- Demonstrates component state management and responsive design.
+- [Live Demo](https://jfranc31.github.io/React-Todo-App/) | [GitHub Repository](https://github.com/Jfranc31/React-Todo-App)
 
 **Giphy Search Engine** *(Fall 2025)*
 - Built a responsive GIF search web application using HTML, SCSS/Sass, and JavaScript(ES6+).
